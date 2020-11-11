@@ -1,0 +1,34 @@
+nav {
+    background-color: lightblue;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    height: 50px;
+}
+
+nav ul li {
+    display: inline-block;
+    color: blue;
+    font-weight: bold;
+    margin-right: 20px;
+    }
+nav ul {
+    text-align: right;
+}
+
+
+.form ul {
+    text-align: center;
+    margin: 100px;
+    border: 10px;
+    background-color: grey;
+    padding: 50px;
+    border: 15px green;
+}
+
+body {
+    background-color: grey;
+}
+
+
